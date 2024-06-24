@@ -585,8 +585,8 @@ Fazendo uma requisição POST que cria um cliente
 ![image](https://github.com/mronald-js/APIRestful-java-spring-boot-atividade-POO/assets/130300493/d1782e01-a6fd-4aa2-aa2c-f6163f3c5810)<br>
 Cliente é criado:
 ![image](https://github.com/mronald-js/APIRestful-java-spring-boot-atividade-POO/assets/130300493/999d3b26-6a1d-44b8-83cf-e0328217907d)<br>
-Visualizando Cliente após sua criação:
-![image](https://github.com/mronald-js/APIRestful-java-spring-boot-atividade-POO/assets/130300493/92e1eb53-771c-4ec4-9cb8-a473926edadd)
+Visualizando Cliente após sua criação:<br>
+![image](https://github.com/mronald-js/APIRestful-java-spring-boot-atividade-POO/assets/130300493/92e1eb53-771c-4ec4-9cb8-a473926edadd)<br>
 ![image](https://github.com/mronald-js/APIRestful-java-spring-boot-atividade-POO/assets/130300493/8e41d658-5273-4a24-a01f-ad863485f9a5)
 
 
