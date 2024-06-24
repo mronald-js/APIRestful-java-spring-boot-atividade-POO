@@ -55,7 +55,6 @@ Este projeto é uma API RESTful desenvolvida com Spring Boot em Java. A API perm
       "cpf": "123.456.789-99",
       "dataNascimento": "00-00-0000",
       "telefone": "123456789",
-      "
     }
     ```
 - **Resposta de Sucesso**:
